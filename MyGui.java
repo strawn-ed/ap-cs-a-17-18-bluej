@@ -2,8 +2,8 @@
 /**
  * Write a description of class MyGui here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Peter Strawn
+ * @version 22 September 2017
  */
 
 import javax.swing.*;
